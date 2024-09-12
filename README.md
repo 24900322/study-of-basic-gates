@@ -61,7 +61,7 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
    
- Developed by:vijay m
+ Developed by:vijay M
  
  RegisterNumber: 24900322
  
@@ -81,6 +81,7 @@ Y= A⊕B
 
 
 **Result:**
+
     The program is verified successfully using the software quertus prime.
 
 
